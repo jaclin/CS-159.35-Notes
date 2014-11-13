@@ -1,0 +1,30 @@
+from numpy import *
+from matplotlib import pylab as plt
+
+#set x & y values
+xvar = array([1,2,3,4,5])
+yvar = xvar*2
+
+#clear plot
+plt.clf()
+
+#plot
+plt.plot(xvar,yvar,'rx')
+
+#set ranges of axes
+plt.xlim((0,6))
+plt.ylim((0,12))
+
+#set labels of axes
+plt.xlabel("variable X")
+plt.ylabel("variable Y")
+
+#set graph title
+plt.title("My First Python Plot")
+
+#save figure
+plt.savefig("../fig/fig_first_plot.png")
+
+.clf() = clear figure
+. = current directory
+.. = one level up
