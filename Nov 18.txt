@@ -1,0 +1,40 @@
+Elements and principles
+	Components
+		Line
+		Shapes
+		Size
+		Color
+		Typography
+		Movement
+		Symbols/Icons
+	Composition - way components are visually combined and arranged
+		Placement
+		Emphasis
+		Alignment
+			mas free hand sa right side, left hand side in ok pag left align
+		Grouping
+			dapat apparent because impt
+			does it matter sa text? = yes because the information might lose importance and sense
+		Flow
+		Harmony
+		* direct your viewers' attention - mostly starts in the center --> allows to viewers to start in the middle
+		* most eyes move in letter Z direction - important to place impt data in right place
+	Concept - intangible ingredients of a design or image critical to its visual presentation
+		* you can inject only so much
+		Metaphors matter
+
+There's a difference between data visualization and infographic
+	# of discrete types of data dimensions
+		more data dimensions in data visualization make it confusing
+			more complex visualizations more challenging to design
+	inforgraphics
+		manually drawn
+		specific to data at hand
+		aesthetically rich
+		relatively data poor because once produced wala na
+		less control in changing data but can be shown in interesting way
+	data visualization
+		algorithmically drawn
+		easy to regenerate with different data
+		often aesthetically barren
+		relatively data-rich
